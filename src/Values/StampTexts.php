@@ -75,4 +75,5 @@ class StampTexts extends ValuesBase {
 	const OutBuildings = 80;
 	const FullyManaged = 85;
 	const MoveByChristmas = 86;
+	const LBTTPaid = 87;
 }
